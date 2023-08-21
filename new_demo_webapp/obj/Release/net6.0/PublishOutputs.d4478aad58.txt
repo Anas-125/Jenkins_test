@@ -1,0 +1,7 @@
+C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Release\net6.0\PubTmp\Out\new_demo_webapp.exe
+C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Release\net6.0\PubTmp\Out\new_demo_webapp.dll
+C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Release\net6.0\PubTmp\Out\new_demo_webapp.deps.json
+C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Release\net6.0\PubTmp\Out\new_demo_webapp.runtimeconfig.json
+C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Release\net6.0\PubTmp\Out\new_demo_webapp.pdb

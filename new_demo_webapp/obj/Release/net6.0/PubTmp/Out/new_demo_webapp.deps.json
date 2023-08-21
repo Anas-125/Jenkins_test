@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "new_demo_webapp/1.0.0": {
+        "runtime": {
+          "new_demo_webapp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "new_demo_webapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
