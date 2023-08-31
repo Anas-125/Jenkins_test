@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Anas\\DevOps\\new_demo_webapp\\new_demo_webapp\\new_demo_webapp.csproj",
+      "projectUniqueName": "C:\\Users\\MuhammadAnasHashmani\\OneDrive - Enterprise64\\Desktop\\Anas\\DevOps\\new_demo_webapp\\new_demo_webapp\\new_demo_webapp.csproj",
       "projectName": "new_demo_webapp",
-      "projectPath": "C:\\Anas\\DevOps\\new_demo_webapp\\new_demo_webapp\\new_demo_webapp.csproj",
+      "projectPath": "C:\\Users\\MuhammadAnasHashmani\\OneDrive - Enterprise64\\Desktop\\Anas\\DevOps\\new_demo_webapp\\new_demo_webapp\\new_demo_webapp.csproj",
       "packagesPath": "C:\\Users\\MuhammadAnasHashmani\\.nuget\\packages\\",
-      "outputPath": "C:\\Anas\\DevOps\\new_demo_webapp\\new_demo_webapp\\obj\\",
+      "outputPath": "C:\\Users\\MuhammadAnasHashmani\\OneDrive - Enterprise64\\Desktop\\Anas\\DevOps\\new_demo_webapp\\new_demo_webapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,7 +34,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -71,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

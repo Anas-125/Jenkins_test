@@ -6,7 +6,6 @@ C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\bin\Debug\net6.0\new_demo_webapp.
 C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\bin\Debug\net6.0\new_demo_webapp.runtimeconfig.json
 C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\bin\Debug\net6.0\new_demo_webapp.dll
 C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\bin\Debug\net6.0\new_demo_webapp.pdb
-C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Debug\net6.0\new_demo_webapp.csproj.AssemblyReference.cache
 C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Debug\net6.0\new_demo_webapp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Debug\net6.0\new_demo_webapp.AssemblyInfoInputs.cache
 C:\Anas\DevOps\new_demo_webapp\new_demo_webapp\obj\Debug\net6.0\new_demo_webapp.AssemblyInfo.cs
